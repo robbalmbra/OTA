@@ -1,0 +1,13 @@
+{
+  "response": [
+    {
+      "datetime": 1588837824,
+      "filename": "aicp_crownlte_q-15.0-WEEKLY-20200506.zip",
+      "id": "7c69fcafd22f371a73c2c0b48e0e015a",
+      "romtype": "weekly",
+      "size": "603614715",
+      "url": "https://sourceforge.net/projects/evo9810ota/files/aicp/aicp_crownlte_q-15.0-WEEKLY-20200506.zip/download",
+      "version": "15.0"
+    }
+  ]
+}
