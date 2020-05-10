@@ -1,17 +1,1 @@
-{
-  "datetime": 1589008478,
-  "donate_url": "",
-  "error": false,
-  "filehash": "4e6da294cfac9131b201344cb5e5bf4e",
-  "filename": "EvolutionX_4.3_starlte-10.0-20200509-0715-OFFICIAL.zip",
-  "forum_url": "",
-  "id": "e7f6360cfc303a72756036d49849b51eb8872c13fd7b82657faa03706c7ee139",
-  "maintainer": "Robert Balmbra",
-  "maintainer_url": "https://forum.xda-developers.com/member.php?u=4834466",
-  "news_url": "https://t.me/EvolutionXOfficial",
-  "size": 1283167885,
-  "telegram_username": "robbalmbra",
-  "url": "https://sourceforge.net/projects/evo9810ota/files/evox/starlte/09-05-20/EvolutionX_4.3_starlte-10.0-20200509-0715-OFFICIAL.zip/download",
-  "version": "Ten",
-  "website_url": "https://evolution-x.org"
-}
+{"datetime": 1589048151, "filehash": "e8aebf42ded647d7e52471c4bd80227a", "filename": "EvolutionX_4.3_starlte-10.0-20200509-1816-OFFICIAL.zip", "id": "9290193397ea67cb093bf7af0ca7facab064c5e2dbf4d353fdd4de685e0eceb0", "size": 1282735998, "website_url": "https://evolution-x.org", "version": "Ten", "news_url": "https://t.me/EvolutionXOfficial", "forum_url": "", "donate_url": "", "error": false, "maintainer": "Robert Balmbra", "maintainer_url": "https://forum.xda-developers.com/member.php?u=4834466", "telegram_username": "robbalmbra", "url": "$sf_url"}
