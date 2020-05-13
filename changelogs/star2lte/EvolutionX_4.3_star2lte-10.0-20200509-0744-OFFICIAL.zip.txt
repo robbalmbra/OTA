@@ -1,2 +1,0 @@
-Updated to latest evox sources
-Scrolling issue fixed with latest evox sources
